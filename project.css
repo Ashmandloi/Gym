@@ -1,0 +1,138 @@
+        *
+	    {
+	    	margin-top: 0px;
+	    	margin-left: 0px;
+	    }
+        #head
+	    {
+	    	height: 25px;
+	    	width: 1349px;
+	    	background: black;
+	    	color: white;
+	    }
+	    #menu
+	    {
+	    	height: 80px;
+	    	width: 1349px;
+	    	position: relative;
+	    	top: -33px;
+	    	background: black;
+	    	font-size: xx-large;
+	    	font: white;
+	    	z-index: 1;
+	    }
+	    #menu ul
+		{
+			list-style: none;
+		}
+	    #menu ul li
+	    {
+	    	background: black;
+	    	color: white;
+			width: 200px;
+			height: 80px;
+			float: left;
+			text-align: center;
+			line-height: 80px;
+		}
+		#menu ul li a 
+		{
+			text-decoration: none;
+			color: white;
+		}
+		#quote
+		{
+			height: 25px;
+	    	width: 1349px;
+	    	background: black;
+	    	color: white;
+	    	position: relative;
+	    	bottom: 33px;
+		}
+		#img
+		{
+			position: relative;
+	        bottom: 33px;
+			background-repeat: no-repeat;
+		}
+		#form
+		{
+			height: 651px;
+			width: 678px;
+			background: black;
+			position: absolute;
+			left: 671px;
+			top: 127px;
+			color: white;
+			font-size: large;
+		}
+		.bc1
+		{
+			position: relative;
+			float: left;
+		}
+		.bc2
+		{
+			position: relative;
+			float: left;
+		}
+		.bc3
+		{
+			position: relative;
+			float: left;
+		}
+		.bc4
+		{
+			position: relative;
+			
+		}
+		#box
+		{
+			height: 300px;
+	    	width: 1349px;
+	    	background: black;
+	    	position: relative;
+	    	bottom: 36px;
+		}
+		#box2
+		{
+			background: black;
+			position: relative;
+			bottom: 21px;
+			width: 1349px;
+			height: 225px;			
+		}
+		.box2
+		{
+			background: black;
+			width: 700px;
+			height: 225px;
+		}
+		#footer
+		{
+			height: 900px;
+			width: 1349px;
+			background-image: url("Fitness-Quotes.jpg");
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			color: white;
+			position: relative;
+			bottom: 36px;
+		}
+		#logo
+		{
+			background-color: black;
+			color: white;
+			position: relative;
+			bottom: 36px;
+			height: 120px;
+			width: 1349px;
+		}
+		.B2 img
+		{
+			border-radius: 30px;
+			width: 300px;
+			height: 300px;
+			margin-left: 100PX;
+		}
+		
